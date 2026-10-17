@@ -1,9 +1,13 @@
 /modeloapp/__pycache__/*
 /apps/categories/__pycache__/*
 /apps/categories/migrations/*
+/apps/socialnetworks/__pycahe__/*
+/apps/socialnetworks/migrations/*
+
 
 .env
 Wallet_modeloappdb/
 .vscode/
 __pycache__/
 *.pyc
+debug.log
