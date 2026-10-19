@@ -1,8 +1,10 @@
-/modeloapp/__pycache__/*
+/projetoapp/__pycache__/*
 /apps/categories/__pycache__/*
 /apps/categories/migrations/*
-/apps/socialnetworks/__pycahe__/*
+/apps/socialnetworks/__pycache__/*
 /apps/socialnetworks/migrations/*
+/apps/persons/__pycache__/*
+/apps/persons/migrations/*
 
 
 .env
