@@ -5,7 +5,10 @@
 /apps/socialnetworks/migrations/*
 /apps/persons/__pycache__/*
 /apps/persons/migrations/*
-
+/apps/products/__pycache__/*
+/apps/products/migrations/*
+/apps/employees/migrations/*
+/apps/employees/__pycache__/*
 
 .env
 Wallet_modeloappdb/
