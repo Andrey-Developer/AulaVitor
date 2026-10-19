@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'django_filters',
     'socialnetworks.apps.SocialnetworksConfig',
     'persons.apps.PersonsConfig',
+    'employees.apps.EmployeesConfig',
 ]
 
 MIDDLEWARE = [
